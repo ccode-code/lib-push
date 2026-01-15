@@ -7,7 +7,7 @@
 🇨🇳 **中文** | [🇺🇸 English](docs/README.en.md) | [🇯🇵 日本語](docs/README.ja.md) | [🇰🇷 한국어](docs/README.ko.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Bun](https://img.shields.io/badge/Bun-1.1.0+-black?logo=bun)](https://bun.sh)
+[![Bun](https://img.shields.io/badge/Bun-1.3.0+-black?logo=bun)](https://bun.sh)
 
 </div>
 
