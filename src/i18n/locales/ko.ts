@@ -103,6 +103,9 @@ export default {
     otpEmpty: "일회용 코드는 비어 있을 수 없습니다",
     otpInvalid: "일회용 코드는 6자리 숫자여야 합니다",
     otp: "일회용 코드(OTP)",
+    rollingBack: "게시 실패, 변경 사항 롤백 중...",
+    rollbackComplete: "롤백 완료",
+    rollbackFailed: "롤백 실패, 버전과 changelog를 수동으로 복원하세요:",
   },
 
   // 성공 메시지

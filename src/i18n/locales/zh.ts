@@ -103,6 +103,9 @@ export default {
     otpEmpty: "一次性代码不能为空",
     otpInvalid: "一次性代码必须是 6 位数字",
     otp: "一次性代码（OTP）",
+    rollingBack: "发布失败，正在回滚修改...",
+    rollbackComplete: "回滚完成",
+    rollbackFailed: "回滚失败，请手动恢复版本号和 changelog:",
   },
 
   // 成功消息

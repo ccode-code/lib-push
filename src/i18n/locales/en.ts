@@ -103,6 +103,9 @@ export default {
     otpEmpty: "One-time code cannot be empty",
     otpInvalid: "One-time code must be 6 digits",
     otp: "One-time code (OTP)",
+    rollingBack: "Publish failed, rolling back changes...",
+    rollbackComplete: "Rollback completed",
+    rollbackFailed: "Rollback failed, please manually restore version and changelog:",
   },
 
   // Success message

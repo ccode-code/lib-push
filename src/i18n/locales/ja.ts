@@ -103,6 +103,9 @@ export default {
     otpEmpty: "ワンタイムコードは空にできません",
     otpInvalid: "ワンタイムコードは6桁の数字である必要があります",
     otp: "ワンタイムコード（OTP）",
+    rollingBack: "公開に失敗しました、変更をロールバック中...",
+    rollbackComplete: "ロールバックが完了しました",
+    rollbackFailed: "ロールバックに失敗しました、バージョンとchangelogを手動で復元してください:",
   },
 
   // 成功メッセージ
